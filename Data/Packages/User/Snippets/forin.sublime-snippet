@@ -1,0 +1,13 @@
+<snippet>
+  <content>
+    <![CDATA[
+for (${1:let} ${2:key} in ${4:dict}) {
+    $5
+}$6
+]]>
+  </content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>for</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>source.js</scope>
+</snippet>

@@ -1,0 +1,13 @@
+[{
+  "keys": ["ctrl+\\"],
+  "command": "toggle_side_bar"
+}, {
+  "keys": ["super+e"],
+  "args": {
+    "action": "expand_abbreviation"
+  },
+  "command": "run_emmet_action",
+  "context": [{
+    "key": "emmet_action_enabled.expand_abbreviation"
+  }]
+}]

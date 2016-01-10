@@ -1,0 +1,43 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"All Autocomplete",
+		"AutoFileName",
+		"Autoprefixer",
+		"Babel",
+		"ChineseLocalization",
+		"ColorPicker",
+		"ConvertToUTF8",
+		"DocBlockr",
+		"EditorConfig",
+		"Emmet",
+		"Emoji",
+		"FileHeader",
+		"Git",
+		"GitGutter",
+		"GithubEmoji",
+		"Gitignore",
+		"HTML-CSS-JS Prettify",
+		"IMESupport",
+		"JavaScript & NodeJS Snippets",
+		"LESS",
+		"Markdown Preview",
+		"MarkdownEditing",
+		"Material Theme",
+		"Package Control",
+		"Sass",
+		"SideBarEnhancements",
+		"SideBarFolders",
+		"SidebarSeparator",
+		"SublimeServer",
+		"Terminal",
+		"Theme - Centurion",
+		"Theme - Soda",
+		"Xtemplate"
+	]
+}
