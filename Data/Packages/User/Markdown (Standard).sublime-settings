@@ -8,7 +8,7 @@
   "extensions": [
     "md"
   ],
-  "highlight_line": false,
+  "highlight_line": true,
   "line_numbers": true,
   "line_padding_bottom": 2,
   "line_padding_top": 2,
@@ -35,9 +35,9 @@
   ],
   "mde.match_header_hashes": false,
   "rulers": [],
-  "tab_size": 4,
+  "tab_size": 2,
   "translate_tabs_to_spaces": true,
   "trim_trailing_white_space_on_save": false,
   "word_wrap": true,
-  "wrap_width": 80
+  "wrap_width": 90
 }
