@@ -1,0 +1,3 @@
+[submodule "Data"]
+	path = Data
+	url = https://github.com/zce/windows-st-packages.git
